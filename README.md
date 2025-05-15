@@ -1,4 +1,5 @@
-# React + Vite
+# Random Color Code Generator 
+If you want to generate a random color for your project, then you can use this project. 
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
